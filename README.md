@@ -53,13 +53,5 @@ Conducted multiple comparisons of user engagement, including:
 - **Python** (Pandas, Scikit-learn, Matplotlib, Seaborn)  
 - **Jupyter Notebook**  
 - **Decision Tree Models**  
-- **Visualization tools** for path analysis  
-
-
-## Notes
-This repository serves as a **research project archive**.  
-Future improvements may include:
-- Testing additional ML models (Random Forest, XGBoost)  
-- Automating dashboard creation for publishers  
-- Integrating real-time user data  
+- **Visualization tools** for path analysis   
 
